@@ -1,8 +1,8 @@
 # Basic
-title: Yan_wd
-subtitle: 一条舔狗的不知名博客
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">下载这个博客主题</a>
-description: 为所欲为所欲为
+title: littleOneYuan
+subtitle: 小一元的博客
+# welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">下载这个博客主题</a>
+description: 只为愉悦送命
 creator: <a href="https://yanwd628.github.io">@YAN_weidan</a>
 
 url: "https://github.com/yanwd628/yanwd628.github.com"
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'https://github.com/yanwd628'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/littleOneYuan'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
